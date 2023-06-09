@@ -1,0 +1,17 @@
+{
+    "name": "nopenotdark/bettermoderation",
+    "type": "pmmp-plugin",
+    "require": {
+        "pocketmine/pocketmine-mp": "^5.0.0",
+	"muqsit/invmenu": "4.6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NopeNotDark",
+            "email": "tdmd217@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

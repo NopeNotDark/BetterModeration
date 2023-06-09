@@ -1,0 +1,30 @@
+name: BetterModeration
+main: nopenotdark\bettermoderation\BetterModeration
+version: 1.0.0-SNAPSHOT
+api: [5.0.0]
+author:
+    - NopeNotDark
+    - SantanasWrld
+
+permissions:
+  bettermoderation.ban:
+    description: Allows you to ban players
+    default: op
+  bettermoderation.blacklist:
+    description: Allows you to blacklist players
+    default: op
+  bettermoderation.history:
+    description: Allows you to view a players history
+    default: op
+  bettermoderation.mute:
+    description: Allows you to mute players
+    default: op
+  bettermoderation.pardon:
+    description: Allows you to pardon players
+    default: op
+  bettermoderation.report:
+    description: Allows you to report players
+    default: true
+  bettermoderation.report.view:
+    description: Allows you to view reports
+    default: op

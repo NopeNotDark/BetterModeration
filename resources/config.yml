@@ -1,0 +1,16 @@
+---
+# BetterModeration Configuration File
+
+# The database type to use. Valid options are "sqlite" and "mysql"
+database: "sqlite"
+
+# The Discord webhook to use for logging reports and bans.
+discord-webhook: "https://discordapp.com/api/webhooks/1234567890/abcdefghijklmnopqrstuvwxyz"
+
+# The database connection information. This is only used if the database type is set to "mysql"
+host: "localhost"
+port: 3306
+database: "database"
+username: "username"
+password: "password"
+...
