@@ -1,6 +1,6 @@
 name: BetterModeration
 main: nopenotdark\bettermoderation\BetterModeration
-version: 1.0.0-SNAPSHOT
+version: 1.0.2-SNAPSHOT
 api: [5.0.0]
 author:
     - NopeNotDark
@@ -24,7 +24,7 @@ permissions:
     default: op
   bettermoderation.report:
     description: Allows you to report players
-    default: true
+    default: op
   bettermoderation.report.view:
     description: Allows you to view reports
     default: op
