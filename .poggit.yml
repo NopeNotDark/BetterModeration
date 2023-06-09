@@ -5,5 +5,5 @@ branches:
 projects:
   BetterModeration:
     path: ""
-    logo: "logo.png"
+    icon: "logo.png"
 ...
