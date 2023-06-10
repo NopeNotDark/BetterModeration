@@ -1,6 +1,6 @@
 name: BetterModeration
 main: nopenotdark\bettermoderation\BetterModeration
-version: 1.0.2-SNAPSHOT
+version: 1.0.3-SNAPSHOT
 api: [5.0.0]
 author:
     - NopeNotDark
