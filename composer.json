@@ -2,6 +2,7 @@
     "name": "nopenotdark/bettermoderation",
     "type": "pmmp-plugin",
     "require": {
+	"php": "^8.0",
         "pocketmine/pocketmine-mp": "^5.0.0",
 	"muqsit/invmenu": "4.6.1"
     },
@@ -9,7 +10,7 @@
     "authors": [
         {
             "name": "NopeNotDark",
-            "email": "tdmd217@gmail.com"
+            "email": "colbypham556@gmail.com"
         }
     ],
     "minimum-stability": "dev",
