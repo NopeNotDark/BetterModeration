@@ -7,7 +7,7 @@ projects:
     path: ""
     icon: "logo.png"
     libs:
-      - src: Muqsit/InvMenu
+      - src: muqsit/invMenu/invMenu
         version: 4.6.1
       - src: poggit/libasynql/libasynql
         version: 4.1.7
