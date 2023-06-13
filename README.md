@@ -1,6 +1,6 @@
 ## Better Moderation Plugin <img src="https://github.com/NopeNotDark/BetterModeration/blob/main/logo.png" height="128" width="128" align="left"></img>
 [![](https://poggit.pmmp.io/shield.state/BetterModeration)](https://poggit.pmmp.io/p/BetterModeration)
-<a href="https://poggit.pmmp.io/p/BetterModeration"><img src="https://poggit.pmmp.io/shield.state/BetterModeration"></a> [![](https://poggit.pmmp.io/shield.api/Spyglass-Sniper)](https://poggit.pmmp.io/p/Spyglass-Sniper)
+<a href="https://poggit.pmmp.io/p/BetterModeration"><img src="https://poggit.pmmp.io/shield.state/BetterModeration"></a> [![](https://poggit.pmmp.io/shield.api/BetterModeration)](https://poggit.pmmp.io/p/BetterModeration)
 <a href="https://poggit.pmmp.io/p/BetterModeration"></a>
 
 ## Commands 
