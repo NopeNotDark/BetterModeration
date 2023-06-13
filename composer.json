@@ -4,7 +4,8 @@
     "require": {
 	"php": "^8.0",
         "pocketmine/pocketmine-mp": "^5.0.0",
-	"muqsit/invmenu": "4.6.1"
+	"muqsit/invmenu": "4.6.1",
+        "sof3/libasynql": "4.1.6"
     },
     "license": "MIT",
     "authors": [
