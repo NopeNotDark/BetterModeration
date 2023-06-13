@@ -6,4 +6,9 @@ projects:
   BetterModeration:
     path: ""
     icon: "logo.png"
+    libs:
+      - src: Muqsit/InvMenu
+        version: 4.6.1
+      - src: poggit/libasynql/libasynql
+        version: 4.1.7
 ...
