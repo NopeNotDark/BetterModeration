@@ -1,7 +1,7 @@
 -- #! sqlite
 -- #{ bettermoderation
 -- # { init
-CREATE TABLE IF NOT EXISTS punishments (id INTEGER PRIMARY KEY AUTOINCREMENT, target TEXT NOT NULL, reason TEXT NOT NULL, staff TEXT NOT NULL, duration TEXT NOT NULL, timeAt INT NOT NULL);
+CREATE TABLE IF NOT EXISTS punishments (id INTEGER PRIMARY KEY AUTO_INCREMENT, target TEXT NOT NULL, reason TEXT NOT NULL, staff TEXT NOT NULL, duration TEXT NOT NULL, timeAt INT NOT NULL);
 -- # }
 -- #  { add
 INSERT INTO punishments (modType, target, reason, staff, duration, timeAt) VALUES (modType, target, reason, staff, duration, timeAt);
